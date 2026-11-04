@@ -1,0 +1,9 @@
+{
+  "appId": "com.smetapro.app",
+  "appName": "SmetaPro",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
